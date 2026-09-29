@@ -1,0 +1,35 @@
+{
+  "repository": "alexandroit/stackline-vfile-reporter-json",
+  "packages": [
+    {
+      "name": "@stackline/vfile-reporter-json",
+      "path": "readme.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "vfile-reporter-json",
+        "typescript",
+        "vfile",
+        "vfile-util",
+        "vfile-reporter",
+        "util",
+        "utility",
+        "reporter",
+        "virtual",
+        "file",
+        "formatter",
+        "format",
+        "report",
+        "json",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/vfile-reporter-json/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/vfile-reporter-json/-/vfile-reporter-json-1.0.0.tgz",
+      "baselineIntegrity": "sha512-/sLrJU8bWSvVEWWC8fp5y7IPUnSP2Nn2i6i5StXH5wBQGFjc9zjNBZyiN3zD4yQVWuGURG9SAQoE0UCjT9R2Sg==",
+      "expectedSha512": "8fcffb616a7f6d68a809a2fdaf67d42f8e70861801504b0b3e825652c1a60659782cd6ce119e74ef07bdab44479016da25e5b9376d245e03c53c288c0a6c9351",
+      "tag": "docs-stackline-vfile-reporter-json-v1.0.1"
+    }
+  ]
+}
