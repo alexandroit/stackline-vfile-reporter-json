@@ -1,3 +1,19 @@
+# @stackline/vfile-reporter-json
+
+Independent maintenance fork of `vfile-reporter-json@3.3.0`, preserving its API and published type declarations.
+
+```sh
+npm install @stackline/vfile-reporter-json
+# Keep existing imports:
+npm install vfile-reporter-json@npm:@stackline/vfile-reporter-json@1.0.0
+```
+
+[Stackline](https://alexandro.net/) · [Issues](https://github.com/alexandroit/stackline-vfile-reporter-json/issues) · [Community](https://www.reddit.com/r/Stackline/)
+
+See [UPSTREAM.md](UPSTREAM.md) for source identity and issue review, and [CHANGELOG.md](CHANGELOG.md) for maintenance changes. Functional tests also run against the final npm tarball; releases are published from GitHub Actions with provenance.
+
+## Upstream documentation
+
 # vfile-reporter-json
 
 [![Build][build-badge]][build]

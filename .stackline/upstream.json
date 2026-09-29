@@ -1,0 +1,22 @@
+{
+  "upstream": "vfile-reporter-json",
+  "fork": "@stackline/vfile-reporter-json",
+  "repository": "alexandroit/stackline-vfile-reporter-json",
+  "upstreamRepository": "vfile/vfile-reporter-json",
+  "upstreamVersion": "3.3.0",
+  "sourceCommit": "7d6a4563f7dad46e427225dcb83fc7280cb3e427",
+  "upstreamIntegrity": "sha512-/zgRtjxQ2UGJn+HViiZ7+nIXtUzkkXFQum3BmaS/bSyr10P0X41ETRqqwMJ95RtbKUah3m7pKb6oS1eZeXXHzQ==",
+  "status": "source-ready",
+  "files": {
+    "license": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+    "index.js": "25d9265bc9324275f6ef1c78a3b3edb9580dcd6b8577c1f3051e78c720c46e75",
+    "lib/index.js": "fb85e1c1c8581a63dedb5a3c82c0398a244767287b62f83bb284fb8b8117194f",
+    "package.json": "4f443d9bc673cead310b21f9c141675744a2e12fedb9100e2ae7f6aef838c810",
+    "readme.md": "a72637fc4e5249a382e0b4930474d95bf2ef896b656fe8db80e3678cfce964b2",
+    "index.d.ts": "b9bb73f8db7f36a7e6bb10dc14e98b5d80a3e07b1029f53155c288afa735dfb4",
+    "lib/index.d.ts": "e46ec8579b5b5b28e3010e07b8259f465f96e12db635e4e37508e6dec3c90c51"
+  },
+  "allowedRuntimeChanges": [],
+  "testCommand": "node --conditions development test.js",
+  "strategy": "Published upstream files, including generated declarations, are preserved and checked against SHA-256. Functional tests run against source and the extracted final package. Changes to published runtime files require an explicit reviewed allowlist."
+}
